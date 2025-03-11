@@ -1,0 +1,13 @@
+ccxt==4.4.65
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+torch==2.1.0
+dash==2.17.0
+plotly==5.18.0
+websocket-client==1.7.0
+python-telegram-bot==20.0
+hurst==0.0.5
+requests==2.31.0
+pytz==2023.3
+shap==0.43.0
